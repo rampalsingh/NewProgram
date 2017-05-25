@@ -1,0 +1,27 @@
+2017-05-23 14:49:23,490 INFO  [Log] **************************************************************************************** 
+2017-05-23 14:49:23,491 INFO  [Log] **************************************************************************************** 
+2017-05-23 14:49:23,491 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-05-23 14:49:23,491 INFO  [Log] **************************************************************************************** 
+2017-05-23 14:49:23,491 INFO  [Log] **************************************************************************************** 
+2017-05-23 14:49:24,181 INFO  [Log] Excel sheet opened 
+2017-05-23 14:49:24,181 INFO  [Log] Total number of Row used return as < 2 >. 
+2017-05-23 14:49:27,590 INFO  [Log] New driver instantiated 
+2017-05-23 14:49:27,594 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2017-05-23 14:50:14,625 INFO  [Log] Web application launched successfully 
+2017-05-23 14:50:14,672 INFO  [Log] My Account link is found on the Home Page 
+2017-05-23 14:50:38,063 INFO  [Log] Click action is perfromed on My Account link 
+2017-05-23 14:50:38,093 INFO  [Log] Username text box is found on the Login Page 
+2017-05-23 14:50:38,209 INFO  [Log] rampal.a.singh is entered in UserName text box 
+2017-05-23 14:50:38,243 INFO  [Log] Password text box is found on the Login page 
+2017-05-23 14:50:38,350 INFO  [Log] rampal2017 is entered in Password text box 
+2017-05-23 14:50:38,380 INFO  [Log] Submit button is found on the Login page 
+2017-05-23 14:50:38,463 INFO  [Log] Click action is performed on Submit button 
+2017-05-23 14:51:19,626 INFO  [Log] Log Out link is found on the Home Page 
+2017-05-23 14:51:19,806 INFO  [Log] Product category link is found under Top Navigation 
+2017-05-23 14:51:19,994 INFO  [Log] iMacs link is found under Product Category 
+2017-05-23 14:52:08,460 INFO  [Log] Click action is performed on the selected Product Type 
+2017-05-23 14:52:08,460 INFO  [Log] Product Type iMacs is selected from the Top menu 
+2017-05-23 14:52:08,491 INFO  [Log] Add to Cart button is found for Product 1 
+2017-05-23 14:52:08,595 INFO  [Log] Product 1 is selected from the Product listing page 
+2017-05-23 14:52:09,958 INFO  [Log] Go to Cart button is found on the Cart Pop Up window 
+2017-05-23 14:53:10,480 INFO  [Log] Go to Cart button is not found on the Cart Pop Up window 
